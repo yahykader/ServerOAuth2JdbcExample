@@ -100,3 +100,5 @@ create table if not exists oauth_approvals (
 	expiresAt TIMESTAMP,
 	lastModifiedAt TIMESTAMP
 );
+
+
